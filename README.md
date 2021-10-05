@@ -8,9 +8,11 @@ I'm __***BSOD#2528***__ and I am one of the most famous errors in all of Windows
 
 My Github stats -
 
-![BSOD GH Stats](https://github-readme-stats.vercel.app/api?username=BSOD2528&theme=discord_old_blurple&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSOD2528&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
+![BSOD GH Stats](https://github-readme-stats.vercel.app/api?username=BSOD2528&theme=discord_old_blurple&show_icons=true)
 
+
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JXEu2AcV5Y)
 --- ---
