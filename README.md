@@ -1,4 +1,4 @@
-## WELCOME PEEPS ! <img src='https://cdn.discordapp.com/emojis/893714777661136916.gif?size=96' width='30px'>
+## WELCOME PEEPS ! <img src='https://cdn.discordapp.com/emojis/914186744642023515.png?size=96' width='30px'>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JXEu2AcV5Y) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imav.20/)
 
