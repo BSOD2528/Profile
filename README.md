@@ -9,7 +9,7 @@
 
 --- ---
 
-I'm __***BSOD#2528***__ and I am one of the most famous errors in all of Windows history. Okay enough joking. I am a new programmer and concentrate mostly on making Discord Bots. I do know Python ( relatively ) and currently learning Node.js. Check out few of my projects I've done. All of them are dependent on __**[Discord.py](https://github.com/Rapptz/discord.py)**__
+I'm __***BSOD#2528***__ and I am one of the most famous errors in all of Windows history. Okay enough joking. I am a new programmer and concentrate mostly on making Discord Bots. I do know Python ( relatively ) and currently learning CPP. Check out few of my projects I've done. All of them are dependent on __**[Discord.py](https://github.com/Rapptz/discord.py)**__
 - [Beach - Bot](https://github.com/BSOD2528/Beach-Bot)
 - [Geralt](https://github.com/BSOD2528/Geralt)
 
