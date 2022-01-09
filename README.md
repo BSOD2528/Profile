@@ -13,7 +13,7 @@ I'm __***BSOD#2528***__ and I am one of the most famous errors in all of Windows
 - [Beach - Bot](https://github.com/BSOD2528/Beach-Bot)
 - [Geralt](https://github.com/BSOD2528/Geralt)
 
-Check out my website by clicking [**here**](https://bsod2528.github.io/). It's a place where I document stuff for no reason lol. Kudos to @kitian616 for the amazing Jekyll Theme -- [TeXT](https://github.com/kitian616/jekyll-TeXt-theme)
+Check out my website by clicking [**here**](https://bsod2528.github.io/). It's a place where I document stuff for no reason lol. Kudos to [@kitian616](https://github.com/kitian616) for the amazing Jekyll Theme -- [TeXT](https://github.com/kitian616/jekyll-TeXt-theme)
 
 
 My Github stats -
