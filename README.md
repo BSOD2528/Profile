@@ -24,7 +24,7 @@ Welcome people! I am BSOD and I am a hobby programmer in Python and Rust. I am m
 
 ### Languages : 
 
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
