@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0a7f9&height=180&section=header&text=BSOD2528&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b0a7f9&size=35&center=true&vCenter=true&width=1000&lines=I+AM+BSOD;GREATEST+ERROR+OF+WINDOWS;HAVING+EXISTENTIAL+CRISIS;17+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b0a7f9&size=35&center=true&vCenter=true&width=1000&lines=I+AM+BSOD;GREATEST+ERROR+OF+WINDOWS;HAVING+EXISTENTIAL+CRISIS;18+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
  
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=BSOD2528&theme=react-dark&hide_border=true&area=true" />
@@ -16,8 +16,10 @@
 
 Welcome people! I am BSOD and I am a hobby programmer in Python and Rust. I am mostly concentrating on Discord Bots for now. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.github.io/). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
 
+ You might be wondering why I have BSOD258 at the top and contact me as BSOD0067, its because Discord randomized my discriminator once again so yeah pain.
 
-- Discord - **BSOD#2528**
+
+- Discord - **BSOD#0067**
 - Email - **bsod2528@protonmail.com**
 
 ---
