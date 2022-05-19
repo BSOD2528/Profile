@@ -16,7 +16,7 @@
 
 Welcome people! I am BSOD and I am a hobby programmer in Python and Rust. I am mostly concentrating on Discord Bots for now. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.github.io/). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
 
- You might be wondering why I have BSOD258 at the top and contact me as BSOD0067, its because Discord randomized my discriminator once again so yeah pain.
+ You might be wondering why I have BSOD#2528 at the top and contact me as BSOD#0067, its because Discord randomized my discriminator once again so yeah pain.
 
 
 - Discord - **BSOD#0067**
