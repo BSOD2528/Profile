@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b0a7f9&size=35&center=true&vCenter=true&width=1000&lines=I+AM+BSOD;GREATEST+ERROR+OF+WINDOWS;HAVING+EXISTENTIAL+CRISIS;18+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
  
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=BSOD2528&theme=react-dark&hide_border=true&area=true" />
 
-</div> 
  
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=BSOD2528&show_icons=true&count_private=true&hide_border=true&title_color=b0a7f9&icon_color=f9a7dd&text_color=c9d1d9&bg_color=0d1117" alt="BSOD's github stats" /> 
