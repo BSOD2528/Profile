@@ -11,23 +11,23 @@
 
 ---
 
-Welcome people! I am BSOD and I am a hobby programmer in Python and Rust. I am mostly concentrating on Discord Bots for now. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.github.io/). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
+Welcome people! I am BSOD and I am a hobby programmer in Python and C#. I am mostly concentrating on Discord Bots for now. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.github.io/). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
 
  You might be wondering why I have BSOD#2528 at the top and contact me as BSOD#0067, its because Discord randomized my discriminator once again so yeah pain.
 
 
 - Discord - **BSOD#0067**
-- Email - **bsod2528@protonmail.com**
+- Email - **bsod2528@proton.me**
 
 ---
 
-### Languages : 
+### Languages -- 
 
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
-### Utilities :
+### Utilities --
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
