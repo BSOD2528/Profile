@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0a7f9&height=180&section=header&text=bsod2528&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b0a7f9&size=35&center=true&vCenter=true&width=1000&lines=I+AM+BSOD;GREATEST+ERROR+OF+WINDOWS;HAVING+EXISTENTIAL+CRISIS;18+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b0a7f9&size=35&center=true&vCenter=true&width=1000&lines=I+AM+BSOD;GREATEST+ERROR+OF+WINDOWS;HAVING+EXISTENTIAL+CRISIS;19+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
 
 
 
@@ -20,7 +20,7 @@ Welcome people! I am bsod and I am a hobby programmer in Python. Started learnin
 
 ### Languages
 
-![Csharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
