@@ -11,12 +11,9 @@
 
 ---
 
-Welcome people! I am bsod and I am a hobby programmer in Python. Started learning C# and Kotlin for personal projects. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.me). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
+Welcome people! I am bsod and I am a hobby programmer in Python. Started learning C and Kotlin for personal projects. More will come in the future as ideas do pop up. You can check out my [**website**](https://bsod2528.me). Feel free to contact me via Discord and by email. Information given below don't worry lmao. Yeah thats basically it and I don't know how to explain more on myself. Peace
 
- You might be wondering why I have bsod2528 at the top and contact me as BSOD#0067, its because Discord randomized my discriminator once again so yeah pain.
-
-
-- Discord - **bsod#0067**
+- Discord - **thebluescreenofdeath**
 - Email - **bsod2528@proton.me**
 
 ---
